@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Nguyễn Viết Khôi - Ci76 Nhóm 2 - 0971047922
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
